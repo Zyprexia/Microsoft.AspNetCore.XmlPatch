@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Microsoft.AspNetCore.XmlPatch/obj
+/src/Microsoft.AspNetCore.XmlPatch/bin
+/src/.vs/Microsoft.AspNetCore.XmlPatch/v15
+/src/Microsoft.AspNetCore.XmlPatch.Tests/bin/Debug/netcoreapp2.2
+/src/Microsoft.AspNetCore.XmlPatch.Tests/obj
